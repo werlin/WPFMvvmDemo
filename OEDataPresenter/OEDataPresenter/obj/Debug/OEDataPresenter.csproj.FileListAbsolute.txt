@@ -1,0 +1,16 @@
+C:\Demo\OEDataPresenter\OEDataPresenter\bin\Debug\OEDataPresenter.exe.config
+C:\Demo\OEDataPresenter\OEDataPresenter\bin\Debug\OEDataPresenter.exe
+C:\Demo\OEDataPresenter\OEDataPresenter\bin\Debug\OEDataPresenter.pdb
+C:\Demo\OEDataPresenter\OEDataPresenter\obj\Debug\OEDataPresenter.csprojAssemblyReference.cache
+C:\Demo\OEDataPresenter\OEDataPresenter\obj\Debug\MainWindow.g.cs
+C:\Demo\OEDataPresenter\OEDataPresenter\obj\Debug\App.g.cs
+C:\Demo\OEDataPresenter\OEDataPresenter\obj\Debug\OEDataPresenter_MarkupCompile.cache
+C:\Demo\OEDataPresenter\OEDataPresenter\obj\Debug\OEDataPresenter_MarkupCompile.lref
+C:\Demo\OEDataPresenter\OEDataPresenter\obj\Debug\MainWindow.baml
+C:\Demo\OEDataPresenter\OEDataPresenter\obj\Debug\OEDataPresenter.g.resources
+C:\Demo\OEDataPresenter\OEDataPresenter\obj\Debug\OEDataPresenter.Properties.Resources.resources
+C:\Demo\OEDataPresenter\OEDataPresenter\obj\Debug\OEDataPresenter.csproj.GenerateResource.cache
+C:\Demo\OEDataPresenter\OEDataPresenter\obj\Debug\OEDataPresenter.csproj.CoreCompileInputs.cache
+C:\Demo\OEDataPresenter\OEDataPresenter\obj\Debug\OEDataPresenter.exe
+C:\Demo\OEDataPresenter\OEDataPresenter\obj\Debug\OEDataPresenter.pdb
+C:\Demo\OEDataPresenter\OEDataPresenter\obj\Debug\OEDataPresenter.csproj.Fody.CopyLocal.cache
